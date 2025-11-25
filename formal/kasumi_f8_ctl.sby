@@ -1,0 +1,39 @@
+[tasks]
+bmc
+cover
+
+[options]
+bmc: mode bmc
+bmc: depth 40
+cover: mode cover
+cover: depth 40
+
+[engines]
+bmc: smtbmc
+cover: smtbmc
+
+[script]
+read_verilog kasumi_fi.v
+read_verilog kasumi_fl.v
+read_verilog kasumi_fo.v
+read_verilog kasumi_f.v
+read_verilog kasumi_iter.v
+read_verilog kasumi_keyschedule.v
+read_verilog kasumi_s7.v
+read_verilog kasumi_s9.v
+read_verilog kasumi_stage.v
+read_verilog -formal kasumi_f8_ctl.v
+
+prep -top kasumi_f8_ctl
+
+[files]
+../rtl/kasumi_f8_ctl.v
+../rtl/kasumi_fi.v
+../rtl/kasumi_fl.v
+../rtl/kasumi_fo.v
+../rtl/kasumi_f.v
+../rtl/kasumi_iter.v
+../rtl/kasumi_keyschedule.v
+../rtl/kasumi_s7.v
+../rtl/kasumi_s9.v
+../rtl/kasumi_stage.v

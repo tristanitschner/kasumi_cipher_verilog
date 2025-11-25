@@ -1,0 +1,5 @@
+https://www.3gpp.org/ftp/tsg_sa/WG3_Security/_Specs/33908-300.pdf
+https://www.etsi.org/deliver/etsi_ts/135200_135299/135201/18.00.00_60/ts_135201v180000p.pdf
+https://www.etsi.org/deliver/etsi_ts/135200_135299/135202/18.00.00_60/ts_135202v180000p.pdf
+https://www.etsi.org/deliver/etsi_ts/135200_135299/135203/18.00.00_60/ts_135203v180000p.pdf
+https://www.etsi.org/deliver/etsi_ts/135200_135299/135204/17.00.00_60/ts_135204v170000p.pdf
