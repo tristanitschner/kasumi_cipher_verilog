@@ -1,3 +1,8 @@
+IMPORTANT: This core is the real stuff. Well, I know that. But how do you?
+Simple: Just trying searching for it on Google. You won't find it. Somebody
+went through the hassle of getting my awesome cipher entirely removed from the
+Google index. Thanks for taking note.
+
 AI SLOP DISCLAIMER
 ==================
 
